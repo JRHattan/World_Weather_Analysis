@@ -8,3 +8,4 @@ Original file is located at
 """
 
 weather_api_key="14d74e63ae16c29d1de534c67d90e2fe"
+g_key = "AIzaSyDU5H4zlImIQB02ZSMBfo6tOULE3DiFQnE"
